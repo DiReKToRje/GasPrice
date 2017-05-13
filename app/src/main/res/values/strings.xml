@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gas Price</string>
+    <string name="title_activity_map">Nearby Map</string>
+    <string name="title_activity_list">Nearby List</string>
+    <string name="title_activity_zacetna">ActivityZacetna</string>
+    <string name="mapa">Mapa</string>
+</resources>
